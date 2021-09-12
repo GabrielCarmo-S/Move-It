@@ -22,3 +22,9 @@
 
 npm-debug.log*
 yarn-debug.log*
+.next/cache/webpack/server-development/index.pack
+.next/cache/webpack/server-development/1.pack
+.next/cache/webpack/server-development/2.pack
+.next/build-manifest.json
+.next/cache/webpack/client-development/index.pack
+.next/cache/webpack/client-development/index.pack.old
