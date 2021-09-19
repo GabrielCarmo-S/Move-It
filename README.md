@@ -21,11 +21,14 @@ O Move.it é um App
 
 O **Move.it** é uma aplicação Web que utiliza a técnica de pomodoro, com o objetivo de melhorar sua produtividade e foco. Desenvolvido durante a Next Level Week #4 da Rocketseat.
 
+<hr />
+
+<a href="https://vercel.com/gabrielcarmo-s/move-it" align="center">Para testar a aplicação</a>
 ## :rocket: Tecnologias
 
 -  [Typescript](https://www.typescriptlang.org/)
 -  [ReactJS](https://reactjs.org/)
--  [NEXTJS](https://nextjs.org/)
+-  [NextJS](https://nextjs.org/)
 
 ## :boom: Como Executar
 
@@ -38,7 +41,7 @@ O **Move.it** é uma aplicação Web que utiliza a técnica de pomodoro, com o o
 1. Faça um clone do repositório:
 
 ```sh
-  $ git clone https://github.com/GabrielCarmo-S/Happy.git
+  $ git clone https://github.com/GabrielCarmo-S/Move-It.git
 ```
 
 2. Executando a Aplicação:
