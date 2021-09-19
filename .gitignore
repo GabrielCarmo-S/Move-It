@@ -28,3 +28,5 @@ yarn-debug.log*
 .next/build-manifest.json
 .next/cache/webpack/client-development/index.pack
 .next/cache/webpack/client-development/index.pack.old
+
+.vercel
