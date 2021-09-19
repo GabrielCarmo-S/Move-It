@@ -23,7 +23,7 @@ O **Move.it** é uma aplicação Web que utiliza a técnica de pomodoro, com o o
 
 <hr />
 
-<a href="https://vercel.com/gabrielcarmo-s/move-it" align="center">Para testar a aplicação</a>
+<a href="https://move-it-seven-xi.vercel.app/" align="center">Para testar a aplicação</a>
 ## :rocket: Tecnologias
 
 -  [Typescript](https://www.typescriptlang.org/)
